@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22185d66.css",
+    "main.js": "/static/js/main.bfcaa0ad.js",
+    "static/js/787.7ea994e8.chunk.js": "/static/js/787.7ea994e8.chunk.js",
+    "static/media/HotStar.png": "/static/media/HotStar.a32461f2fd69766a9c8c.png",
+    "static/media/ajio.png": "/static/media/ajio.f11609d0cc4a70559c28.png",
+    "static/media/fitfusion.png": "/static/media/fitfusion.bbbbdf9a0bc91c2f4458.png",
+    "static/media/stylux.png": "/static/media/stylux.b3977fc0715215c996af.png",
+    "static/media/helthdr.png": "/static/media/helthdr.c7854a1005d93b669e59.png",
+    "static/media/Prabal_Kumar_Dwivedi_Resume.pdf": "/static/media/Prabal_Kumar_Dwivedi_Resume.2f5fc2ed24515ada6ac1.pdf",
+    "index.html": "/index.html",
+    "main.22185d66.css.map": "/static/css/main.22185d66.css.map",
+    "main.bfcaa0ad.js.map": "/static/js/main.bfcaa0ad.js.map",
+    "787.7ea994e8.chunk.js.map": "/static/js/787.7ea994e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22185d66.css",
+    "static/js/main.bfcaa0ad.js"
+  ]
+}
