@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.22185d66.css",
-    "main.js": "/static/js/main.3adc64ee.js",
+    "main.js": "/static/js/main.0d8092bc.js",
     "static/js/787.7ea994e8.chunk.js": "/static/js/787.7ea994e8.chunk.js",
     "static/media/gangaram.jpg": "/static/media/gangaram.dd4f19625388a912775b.jpg",
     "static/media/HotStar.png": "/static/media/HotStar.a32461f2fd69766a9c8c.png",
@@ -9,14 +9,14 @@
     "static/media/fitfusion.png": "/static/media/fitfusion.bbbbdf9a0bc91c2f4458.png",
     "static/media/stylux.png": "/static/media/stylux.b3977fc0715215c996af.png",
     "static/media/helthdr.png": "/static/media/helthdr.c7854a1005d93b669e59.png",
-    "static/media/Prabal_Kumar_Dwivedi_Resume.pdf": "/static/media/Prabal_Kumar_Dwivedi_Resume.2f5fc2ed24515ada6ac1.pdf",
+    "static/media/Gangaram_Gawade_Resume.pdf": "/static/media/Gangaram_Gawade_Resume.0f1e357c963e37c4545d.pdf",
     "index.html": "/index.html",
     "main.22185d66.css.map": "/static/css/main.22185d66.css.map",
-    "main.3adc64ee.js.map": "/static/js/main.3adc64ee.js.map",
+    "main.0d8092bc.js.map": "/static/js/main.0d8092bc.js.map",
     "787.7ea994e8.chunk.js.map": "/static/js/787.7ea994e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22185d66.css",
-    "static/js/main.3adc64ee.js"
+    "static/js/main.0d8092bc.js"
   ]
 }
