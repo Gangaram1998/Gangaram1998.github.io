@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.22185d66.css",
-    "main.js": "/static/js/main.858bf0f4.js",
+    "main.js": "/static/js/main.fc758263.js",
     "static/js/787.7ea994e8.chunk.js": "/static/js/787.7ea994e8.chunk.js",
     "static/media/gangaram.jpg": "/static/media/gangaram.dd4f19625388a912775b.jpg",
     "static/media/HotStar.png": "/static/media/HotStar.a32461f2fd69766a9c8c.png",
@@ -13,11 +13,11 @@
     "static/media/Gangaram_Gawade_Resume.pdf": "/static/media/Gangaram_Gawade_Resume.8e0be07cf185d1c720bd.pdf",
     "index.html": "/index.html",
     "main.22185d66.css.map": "/static/css/main.22185d66.css.map",
-    "main.858bf0f4.js.map": "/static/js/main.858bf0f4.js.map",
+    "main.fc758263.js.map": "/static/js/main.fc758263.js.map",
     "787.7ea994e8.chunk.js.map": "/static/js/787.7ea994e8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.22185d66.css",
-    "static/js/main.858bf0f4.js"
+    "static/js/main.fc758263.js"
   ]
 }
