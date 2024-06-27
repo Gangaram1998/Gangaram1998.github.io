@@ -1,0 +1,125 @@
+#laptopBoyContainer {
+    box-sizing: border-box;
+  }
+  
+  #laptopBoy {
+    size: cover;
+    flex: 1;
+    width: 100%;
+    height: fit-content;
+    position: relative;
+  }
+  #tshirt {
+  }
+  #arms {
+  }
+  #head {
+    /* move4 */
+    position: relative;
+    animation-name: move4;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  #ears {
+  }
+  #chin {
+  }
+  #face {
+  }
+  #mouth {
+  }
+  #hair {
+  }
+  #eyeb {
+    position: relative;
+    animation-name: move2;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  @keyframes move2 {
+    0% {
+      transform: translateY(10px);
+    }
+    100% {
+      transform: translateY(-5px);
+    }
+  }
+  #eyey2 {
+    position: relative;
+    animation-name: move;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  @keyframes move {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(10px);
+    }
+  }
+  #shirt {
+    /* move4 */
+    position: relative;
+    animation-name: move4;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  #notebook {
+    position: relative;
+    animation-name: move4;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  #logobook {
+  }
+  /* shadow at the bottom */
+  #brows {
+    position: relative;
+    animation-name: move4;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  @keyframes move3 {
+    0% {
+      transform: translateY(0px);
+    }
+    100% {
+      transform: translateY(-10px);
+    }
+  }
+  #legs {
+    /* move4 */
+    position: relative;
+    animation-name: move4;
+    animation-duration: 3s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
+  }
+  @keyframes move4 {
+    0% {
+      transform: translateY(0px);
+    }
+    100% {
+      transform: translateY(-10px);
+    }
+  }
+  .AboutExperience{
+    color:#dc143c;
+  }
+  @media (400px<= width <= 600px){
+    .heading1{
+     font-size: 25px!important;
+    }
+  }
+  @media (0px<= width <= 400px){
+    .heading1{
+     font-size: 20px!important;
+    }
+  }

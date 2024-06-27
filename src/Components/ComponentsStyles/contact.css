@@ -1,0 +1,11 @@
+@media (400px<= width <= 600px) {
+    .heading1 {
+      font-size: 25px !important;
+    }
+  }
+  @media (0px<= width <= 400px) {
+    .heading1 {
+      font-size: 20px !important;
+    }
+  }
+  

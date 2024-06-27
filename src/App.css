@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap");
+
+* {
+  scroll-behavior: smooth;
+}
+
+.App {
+  text-align: center;
+}
+
+/* back to top button */
+.backToTop {
+  display: none;
+}
+
+.smoothHover {
+  transition: all 0.2s linear;
+}
+
+.top-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 5;
+  position: fixed;
+  bottom: 15px;
+  right: 15px;
+  background: #dc143c;
+  border: 2px solid rgb(220, 20, 60);
+  border-radius: 50%;
+}
+
+.top_btn_arrow {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  line-height: 1em;
+  flex-shrink: 0;
+  color: #ffffff;
+  padding: 6px;
+}
+.top_btn_arrow:hover{
+  color:#dc143c;
+  background-color: #ffffff;
+  border-radius: 100%;
+  transition: 0.5 ease-in;
+}
+
+.top-btn :hover {
+  cursor: pointer;
+}
+
+/* navbar */
+.active {
+  color: #dc143c;
+  border-bottom: 3px solid #dc143c;
+}
+.home {
+}
+.about {
+}
+.contact {
+}
+.project {
+}
+.skills {
+}
+#particles{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+@media screen and (min-width: 1200px) {
+  .backToTop {
+    display: flex;
+  }
+}
