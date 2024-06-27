@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Gangaram1998.github.io/static/css/main.70a9d9d3.css",
-    "main.js": "/Gangaram1998.github.io/static/js/main.48f50b39.js",
-    "static/media/gangaram_gawade_image.gif": "/Gangaram1998.github.io/static/media/gangaram_gawade_image.0cf65625006487fd7424.gif",
-    "static/media/HotStar.png": "/Gangaram1998.github.io/static/media/HotStar.a32461f2fd69766a9c8c.png",
-    "static/media/next.png": "/Gangaram1998.github.io/static/media/next.b856f7507aa87912077b.png",
-    "static/media/ajio.png": "/Gangaram1998.github.io/static/media/ajio.f11609d0cc4a70559c28.png",
-    "static/media/fitfusion.png": "/Gangaram1998.github.io/static/media/fitfusion.bbbbdf9a0bc91c2f4458.png",
-    "static/media/stylux.png": "/Gangaram1998.github.io/static/media/stylux.b3977fc0715215c996af.png",
-    "static/media/indiansAbroad.png": "/Gangaram1998.github.io/static/media/indiansAbroad.92901ea0ec53ddc9adf9.png",
-    "static/media/helthdr.png": "/Gangaram1998.github.io/static/media/helthdr.c7854a1005d93b669e59.png",
-    "static/media/Gangaram_Gawade_Resume.pdf": "/Gangaram1998.github.io/static/media/Gangaram_Gawade_Resume.daa1429d077d92f11a15.pdf",
-    "index.html": "/Gangaram1998.github.io/index.html",
-    "main.70a9d9d3.css.map": "/Gangaram1998.github.io/static/css/main.70a9d9d3.css.map",
-    "main.48f50b39.js.map": "/Gangaram1998.github.io/static/js/main.48f50b39.js.map"
+    "main.css": "/static/css/main.70a9d9d3.css",
+    "main.js": "/static/js/main.60287230.js",
+    "static/media/gangaram_gawade_image.gif": "/static/media/gangaram_gawade_image.0cf65625006487fd7424.gif",
+    "static/media/HotStar.png": "/static/media/HotStar.a32461f2fd69766a9c8c.png",
+    "static/media/next.png": "/static/media/next.b856f7507aa87912077b.png",
+    "static/media/ajio.png": "/static/media/ajio.f11609d0cc4a70559c28.png",
+    "static/media/fitfusion.png": "/static/media/fitfusion.bbbbdf9a0bc91c2f4458.png",
+    "static/media/stylux.png": "/static/media/stylux.b3977fc0715215c996af.png",
+    "static/media/indiansAbroad.png": "/static/media/indiansAbroad.92901ea0ec53ddc9adf9.png",
+    "static/media/helthdr.png": "/static/media/helthdr.c7854a1005d93b669e59.png",
+    "static/media/Gangaram_Gawade_Resume.pdf": "/static/media/Gangaram_Gawade_Resume.daa1429d077d92f11a15.pdf",
+    "index.html": "/index.html",
+    "main.70a9d9d3.css.map": "/static/css/main.70a9d9d3.css.map",
+    "main.60287230.js.map": "/static/js/main.60287230.js.map"
   },
   "entrypoints": [
     "static/css/main.70a9d9d3.css",
-    "static/js/main.48f50b39.js"
+    "static/js/main.60287230.js"
   ]
 }
